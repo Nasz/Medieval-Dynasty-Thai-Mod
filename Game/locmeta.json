@@ -1,0 +1,27 @@
+{
+    "locmeta_version": 1,
+    "locres_version": 3,
+    "resource_name": "Game",
+    "main_language": "en",
+    "local_languages": [
+        "cs",
+        "de",
+        "es",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pl",
+        "pt",
+        "pt-BR",
+        "ro",
+        "ru",
+        "sv",
+        "th",
+        "tr",
+        "uk",
+        "zh-Hans"
+    ]
+}

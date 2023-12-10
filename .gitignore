@@ -1,0 +1,14 @@
+*.pak
+*.csv
+*.txt
+*.php
+*.bat
+*.ttf
+*.ufont
+*.uasset
+*.uexp
+*.bak
+*.locres
+*.locmeta
+*.old*
+*.new*
